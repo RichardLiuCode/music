@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(245, 237, 123);
+    font-family:arial;
+    text-align:center;
+    margin:0;
+    
+align:items:center;
+}
+.frame{
+   
+    margin:0 auto; 
+    padding:10px;
+    background-color:white;
+    border-width:1px;
+    border-radius:0px;
+    border-color:blue;
+    width:90vw;
+    text-align:center;
+}
